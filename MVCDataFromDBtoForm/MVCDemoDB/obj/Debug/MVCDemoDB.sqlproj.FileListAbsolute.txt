@@ -1,0 +1,10 @@
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\obj\Debug\MVCDemoDB.sqlproj.AssemblyReference.cache
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\obj\Debug\predeploy.sql
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\MVCDemoDB\obj\Debug\MVCDemoDB.pdb

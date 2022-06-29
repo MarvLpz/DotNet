@@ -1,0 +1,33 @@
+﻿@model List<PartialModal.Models.Pokemon>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Main</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div>
+        @foreach (var p in Model)
+        {
+            @Html.Partial("Main_1", p)
+        }
+    </div>
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="border: solid 1px black">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+            </div>
+        </div>
+    </div>
+    <a id="btnShowModal" type="Button" data-toggle="modal" data-target="#exampleModal" href="@Url.Action("Main_2","Home")" class="btn btn-sm btn-default pull-left col-lg-4 button button4">Click Me</a>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

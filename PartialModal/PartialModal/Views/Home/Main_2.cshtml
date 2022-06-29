@@ -1,0 +1,21 @@
+﻿@model PartialModal.Models.Pokemon
+
+<div class="col-md-5 col-md-offset-3" style="border: solid 1px black; height: 50px; width: 100px;">
+    <div class="modal-header">
+        <button style="background-color: red" type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true"> &times;</span>
+        </button>
+        <h5 class="modal-title" id="exampleModalLabel"></h5>
+
+        @*<h3>@Model.PName</h3>
+        <h5>@Model.PType</h5>
+        <h5>@Model.PLevel</h5>*@
+    </div>
+    <form>
+        <div class="modal-footer">
+            <button class="btn btn-success" data-dismiss="modal">Close</button>
+            <button class="btn btn-success">Save</button>
+        </div>
+    </form>
+
+</div>

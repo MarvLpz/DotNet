@@ -1,0 +1,17 @@
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\DataLibrary_NonCore.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\DataLibrary_NonCore.pdb
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\Dapper.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\Dapper.xml
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\obj\Debug\DataLibrary_NonCore.csproj.AssemblyReference.cache
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\obj\Debug\DataLibrary_NonCore.csproj.CoreCompileInputs.cache
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\obj\Debug\DataLibrary_NonCore.csproj.CopyComplete
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\obj\Debug\DataLibrary_NonCore.dll
+C:\Users\Mavu\source\repos\MVCDataFromDBtoForm\DataLibrary_NonCore\obj\Debug\DataLibrary_NonCore.pdb
